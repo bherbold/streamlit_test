@@ -36,7 +36,7 @@ b4.metric("Humidity", "86%", "4%")
 # Row C
 c1, c2 = st.columns((7,3))
 with c1:
-    st.markdown('### Hallo')              # text is created with markdown
+    st.markdown('### TEST')              # text is created with markdown
     plost.time_hist(                        # histogram
     data=seattle_weather,
     date='date',
