@@ -23,3 +23,6 @@ gurobi.log
 
 # PyCharm project files
 .idea/*
+
+#venv
+venv
